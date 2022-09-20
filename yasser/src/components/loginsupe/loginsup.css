@@ -1,0 +1,104 @@
+.structur1 {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 740px;
+    padding: 90px 0p 90px 0;
+    background-image: url("../login/books.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+
+}
+
+.sub_structur1 {
+    display: flex;
+    justify-content: center;
+    height: 580px;
+    width: 45%;
+        box-shadow: 1px 1px 3px 3px rgb(6, 6, 6);
+    margin: 40px;
+    padding-top: 30px;
+    border-radius: 40px;
+    background-color: transparent;
+}
+
+.img11 {
+    padding-top: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+.container_img11 {
+    background-color: rgb(223, 221, 221);
+
+    border-radius: 130px;
+    align-items: center;
+    display: flex;
+    height: 51px;
+    width: 81px;
+}
+
+.profil11 {
+    height: 80px;
+    width: 80px;
+    border-radius: 130px;
+}
+
+.mail11 {
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    transform: translate(13px, 10px);
+
+}
+
+.inputs11 {
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    
+    padding-right: 50px;
+}
+
+
+.login1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 120px;
+    margin-top: 20px;
+     background-color: rgb(13, 13, 13);
+    color: white;
+
+
+}
+
+.login1:hover {
+    transform: scale(1.05);
+    transition: .5s;
+}
+
+
+
+
+a {
+    color: rgb(38, 63, 204);
+
+    text-decoration: none;
+
+}
+
+.btns11 {
+background-color: rgb(13, 13, 13);
+    color: beige;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 8px;
+}
+
+.btns11:hover {
+    transform: scale(1.05);
+    transition: .5s;
+}
+.red1{
+    color:red;
+}

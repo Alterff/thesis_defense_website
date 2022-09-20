@@ -1,0 +1,46 @@
+.tit1 {
+    border: 1px black solid;
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 1rem;
+    width: 700px;
+}
+.tit2{
+    text-align: center;
+}
+
+.oo {
+    color: green;
+}
+
+.bl {
+    color: black;
+}
+
+.rigg {
+    text-align: left;
+}
+
+input.mm {
+    width: 400px;
+    height: 40px;
+}
+input.mm1 {
+    width: 40px;
+    height: 40px;
+}
+input.mm2 {
+    width: 400px;
+    height: 40px;
+}
+
+.vc {
+    margin-top: 10px;
+    width: 400px;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+}

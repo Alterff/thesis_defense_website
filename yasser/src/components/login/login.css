@@ -1,0 +1,106 @@
+.structur {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 720px;
+    padding: 90px 0p 90px 0;
+    background-image: url("./books.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.sub_structur {
+    display: flex;
+    justify-content: center;
+    height: 580px;
+    width: 45%;
+    box-shadow: 1px 1px 3px 3px rgb(6, 6, 6);
+    margin: 60px;
+
+    padding-top: 30px;
+    border-radius: 40px;
+    background-color: transparent;
+
+}
+
+.img1 {
+    padding-top: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+.container_img1 {
+    background-color: transparent;
+    
+    border-radius: 130px;
+    align-items: center;
+    display: flex;
+    height: 51px;
+    width: 81px;
+    
+}
+
+.profil1 {
+    height: 80px;
+    width: 80px;
+  
+}
+
+.mail1 {
+    height: 30px;
+    width: 30px;
+  
+    transform: translate(12px, 10px);
+ 
+}
+
+.inputs1 {
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+   
+    padding-right: 50px;
+}
+
+
+.login {
+    width: 200px;
+    height: 40px;
+    border-radius: 120px;
+    margin-top: 20px;
+    background-color: rgb(9, 9, 9);
+    color: white;
+       
+
+}
+.login:hover{
+    transform: scale(1.05);
+        transition: .5s;
+}
+
+
+
+
+a {
+    color:rgb(18, 18, 18);
+
+    text-decoration: none;
+
+}
+
+.btns {
+    background-color: rgb(15, 15, 16);
+    color: beige;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 8px;
+}
+.btns:hover{
+    transform: scale(1.05);
+        transition: .5s;
+}
+.red{
+    color: rgb(216, 11, 11);
+}

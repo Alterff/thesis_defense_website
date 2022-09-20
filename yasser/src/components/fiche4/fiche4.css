@@ -1,0 +1,30 @@
+.bordur{
+    border: 1px black solid;
+        border-radius: 10px;
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+        padding: 1rem;
+        width: 700px;
+}
+.oo{
+    color: green;
+}
+.al{
+    color: black;
+}
+.rig{
+    text-align: left;
+}
+input.ll{
+    width: 500px;
+    height: 40px;
+}
+.va{
+    margin-top: 10px;
+    width: 500px;
+background-color: green;
+color: white;
+border-radius: 20px;
+height: 40px;
+}

@@ -1,0 +1,60 @@
+.orig{
+background-image: url("./mp1.webp");
+width: 1530px;
+    height: 726px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center ;
+background-size: cover;
+padding-top: 18px;
+}
+
+.acc{
+   text-align: center;
+    display: flex;
+        margin: auto;
+        flex-direction: column;
+        padding:  70px;
+        width: 400px;
+        
+    
+    
+       
+
+}
+.name{
+    margin-top: 13px;
+    width: 270px;
+    margin-left: 59px;
+    height: 30px;
+
+}
+.create{
+    margin-top: 16px;
+    width:280px;
+    height: 34px;
+    margin-left: 59px;
+    background-color: rgb(17, 102, 250);
+    border-color: rgb(17, 102, 250);
+    color: azure;
+    border-radius: 10px;
+}
+.lo{
+color:  rgb(17, 102, 250);
+text-decoration: none;
+}
+
+.ww{
+
+width: 240px;
+
+}
+.qq{
+    color:white;
+}
+p{
+    color: white;
+}
+.red1{
+    color: red;
+}
